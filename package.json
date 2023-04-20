@@ -1,0 +1,27 @@
+{
+  "name": "WebSiteNodeJS",
+  "version": "1.0.0",
+  "description": "This web app I will create for training Node.js, React.js and other web technologies",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisamirov/WebSiteNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisamirov/WebSiteNodeJS/issues"
+  },
+  "homepage": "https://github.com/denisamirov/WebSiteNodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
